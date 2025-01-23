@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/quiz_App/static/css/main.4b96954f.css",
-    "main.js": "/quiz_App/static/js/main.f098644c.js",
+    "main.css": "/quiz_App/static/css/main.e2663cac.css",
+    "main.js": "/quiz_App/static/js/main.a1d22b9b.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/quiz_App/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/bg.jpg": "/quiz_App/static/media/bg.c137ccd722d64133b4df.jpg",
+    "static/media/fontawesome-webfont.eot": "/quiz_App/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/quiz_App/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/correct.mp3": "/quiz_App/static/media/correct.160572d72c858155072e.mp3",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/quiz_App/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/wrong.mp3": "/quiz_App/static/media/wrong.e946821894ae9b0a0d6f.mp3",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/quiz_App/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/quiz_App/index.html",
-    "main.4b96954f.css.map": "/quiz_App/static/css/main.4b96954f.css.map",
-    "main.f098644c.js.map": "/quiz_App/static/js/main.f098644c.js.map"
+    "main.e2663cac.css.map": "/quiz_App/static/css/main.e2663cac.css.map",
+    "main.a1d22b9b.js.map": "/quiz_App/static/js/main.a1d22b9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b96954f.css",
-    "static/js/main.f098644c.js"
+    "static/css/main.e2663cac.css",
+    "static/js/main.a1d22b9b.js"
   ]
 }
